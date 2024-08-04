@@ -2741,7 +2741,7 @@ break
 case 'self': {
 if (!isDeveloper) return joreply(mess.owner)
 ryozingod.public = false
-joreply('succes')
+joreply('NIGHT☠ SET TO PRIVATE BOSS')
 }
 break
 //=================================================//
