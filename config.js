@@ -31,7 +31,7 @@ global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
 global.namabot = 'NIGHT-KILLER' //ganti aj klo mau
 global.author = 'NIGHT' //ganti aj klo mau
 global.packname = 'Night 𝙱𝚘𝚝' //ganti aj klo mau
-global.yt = 'https://chat.whatsapp.com/F1aJUvD98j51cgEhg6QSjr' //gausah diganti
+global.yt = 'https://chat.whatsapp.com/EKdEedxpyW9AqMZOdn7cky' //gausah diganti
 
 //===========================//
 
